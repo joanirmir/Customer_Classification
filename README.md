@@ -3,6 +3,8 @@ Team: Barbara/Mirjam
 # Customer_Segmentation
 Multi-class Classification Model to predict the label of new customers
 
+Source: https://www.kaggle.com/vetrirah/customer
+
 Context:
 An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market.
 In the existing market they classified customers into 4 segments. They plan to use the same strategy on new markets and have identified 2627 new potential customers.
